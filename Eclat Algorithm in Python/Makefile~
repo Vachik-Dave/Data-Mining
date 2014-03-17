@@ -1,0 +1,8 @@
+HereI have providede python file.
+
+This program takes two arguments: 1> Filename with option -f
+				  2> Minimum support value with option -s
+
+It will print the freqent patterns with its tid list, IF option -p is provided.
+
+Otherwise, it will only print minimum support value and calculation time for Eclat algorithm.				
