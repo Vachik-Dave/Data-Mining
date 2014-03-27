@@ -1,0 +1,9 @@
+In this Question, I have implemented gradient ascent algorithm with hinge loss.
+
+For my results I have used c =10 and epsilone = 0.0001 as mentioned in assignment.
+
+This file will give result for both linear and quadratic kernel.
+It also display the alpha metrix for both and weight metrix with offset b values.
+
+Alpha values for linear kernel is stored in linear-kernel.txt and Homogeneous Qudratic kernel in quadratic-kernel.txt.
+Eqation for both kernels are stored in equations.txt.

@@ -1,0 +1,7 @@
+In this Question, I have implemented gradient ascent algorithm with hinge loss.
+
+For my results I have used c =10 and epsilone = 0.0001 as mentioned in assignment.
+
+It displays the alpha metrix for both and weight metrix with offset b values.
+
+Alpha values are stored in Non-Homogeneous-kernel.txt and Eqation is stored in Non-Homogeneous-equation.txt.
